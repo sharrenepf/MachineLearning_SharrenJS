@@ -1,4 +1,3 @@
-
 # Tugas Praktikum 1 Bagian 1 No 3 & Bagian 2
 
 ---
