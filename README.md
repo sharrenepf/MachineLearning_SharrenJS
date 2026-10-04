@@ -25,8 +25,13 @@ Mata kuliah Pembelajaran Mesin (Machine Learning) selama JobSheet 1-15.
 | 1 | Jobsheet 1 | Pengenalan Pembelajaran Mesin | ✅ |
 | 2 | Jobsheet 2 | Pemahaman Data dan Pra Pengolahan Data | ✅ |
 | 3 | Jobsheet 3 | Ektraksi Fitur | ✅ |
+<<<<<<< HEAD
 | 4 | Jobsheet 4 | Klasterisasi |  |
 | 5 | Jobsheet 5 | ... |  |
+=======
+| 4 | Jobsheet 4 | Klasterisasi | ✅ |
+| 5 | Jobsheet 5 | Klasterisasi Hierarki |  |
+>>>>>>> 63bf0f19f811550e6b52b845f2bd0c7561e62bf0
 | 6 | Jobsheet 6 | ... |  |
 | 7 | Jobsheet 7 | ... |  |
 | 8 | Jobsheet 8 | ... |  |
