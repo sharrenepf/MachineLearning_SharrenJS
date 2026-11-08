@@ -27,13 +27,10 @@ Mata kuliah Pembelajaran Mesin (Machine Learning) selama JobSheet 1-15.
 | 3 | Jobsheet 3 | Ektraksi Fitur | ✅ |
 | 4 | Jobsheet 4 | Klasterisasi | ✅ |
 | 5 | Jobsheet 5 | Klasterisasi Hierarki | ✅ |
-| 6 | Jobsheet 6 | ... |  |
-| 7 | Jobsheet 7 | ... |  |
-| 8 | Jobsheet 8 | ... |  |
-| 9 | Jobsheet 9 | ... |  |
-| 10 | Jobsheet 10 | ... |  |
-| 11 | Jobsheet 11 | ... |  |
-| 12 | Jobsheet 12 | ... |  |
+| 6 | Jobsheet 6.1 | ANN (Approximate Nearest Neighbors) | ✅ |
+| 6 | Jobsheet 6.2 | Regresi | ✅ |
+| 9 | Jobsheet 9 | Klasifikasi | ✅ |
+| 11 | Jobsheet 11 | Klasifikasi 2 | ✅ |
 | 13 | Jobsheet 13 | ... |  |
 | 14 | Jobsheet 14 | ... |  |
 | 15 | Jobsheet 15 | ... |  |
